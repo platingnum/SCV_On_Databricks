@@ -1,7 +1,7 @@
 # Single Customer View implementation in Databricks using Spark Structured Streaming
 
 ## Instructions
-#####  1. Import the two ipython notebokks in databricks workspace
+#####  1. Import the two ipython notebooks in databricks workspace
 #####  2. Import the following libraries into workspace environment
     schedule
     requests
